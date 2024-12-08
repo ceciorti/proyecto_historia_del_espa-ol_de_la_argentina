@@ -15,13 +15,13 @@ Se emplearon las siguientes herramientas para llevar a cabo este proyecto:
 - **Github**: utilicé esta herramienta para organizar un repositorio con las herramientas utilizadas: archivo readme con el informe del trabajo realizado, la bibliografía utilizada y exportada desde Zotero y las imágenes utilizadas.
 
 ## Pasos realizados
-1. **Definición del tema**
+1. **Definición del tema:**
 Elegí realizar este proyecto ya que me permitía aportar en mi lugar de trabajo, generando herramientas y materiales que puedan servir para fortalecer la construcción y difusión de conocimiento sobre la temática abordada, en un área de una universidad pública con escaso acceso a herramientas de modernización debido al contexto socio político actual. Además, a partir del conocimiento adquirido a lo largo del año, consideré que las herramientas nombradas en el apartado anterior podrían ser de gran utilidad para enriquecer este material e incorporar otros materiales y perspectivas con las que venía trabajando.  
 
-2. **Recolección de información y escritura** 
+2. **Recolección de información y escritura:** 
 En un archivo de texto elaboré el texto para cada diapositiva partiendo del escrito original y modificándolo a partir de distintas fuentes bibliográficas incorporadas, reorganizando el orden, sumando y profundizando en algunas temáticas específicas. Organicé los textos utilizados en cada diapositivas tanto para citar como para generar un acceso a los archivos (en la medida de lo posible). A cada texto sumé una imagen o un mapa que recuperé de la web, tomando nota de las fuentes. También añadí otros recursos como videos y páginas web de referencias. Le asigné un título y una ubicación a cada diapositiva y creé los PNGs que iba a utilizar como marcadores.
 
-3. **realice una historia visual con StoryM** 
+3. **Realización de historia visual con StoryM** 
 Construí el story map con todo el material elaborado y relevado en la segunda etapa.
 
 4. **Organización y gestión de la información en Zotero**
